@@ -10,7 +10,7 @@ cfp:
 presentation:
   length: 30
   submission: 30 de Novembro de 2020
-  publication: 30 de Novembro ed 2020
+  publication: 30 de Novembro de 2020
 ---
 # Tchelinux {{ page.city }} {{ page.year }}
 
