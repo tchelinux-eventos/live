@@ -1,20 +1,19 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-  </head>
-  <body>
-    <nav>
-      <!-- <a href="/">Home</a>
-      <a href="/blog/">Blog</a> -->
-    </nav>
+  {% include head.html %}
+  <body id="page-top" class="index">
+
+    {% include navbar.html %}
+
     <section>
       {{ content }}
     </section>
+
+
     <footer>
-      &copy; 2020 Tchelinux<br>
+      &copy; 2020 Tchelinux
     </footer>
+
+
   </body>
 </html>

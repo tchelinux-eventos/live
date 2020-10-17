@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body id="page-top" class="index">
+
+    {% include navbar.html %}
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">{{ page.title }}<br></div>
+                <div class="intro-lead-in">{{ page.date }}</div>
+                <!-- <a href="#intro" class="page-scroll btn btn-xl">Tell Me More</a> -->
+            </div>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Sobre o Evento</h2>
+                </div>
+            </div>
+            <div class="row container">
+              {{ page.summary | liquify | markdownify }}
+            </div>
+        </div>
+    </section>
+
+    <section id="cfp">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Chamada de Trabalhos</h2>
+                </div>
+            </div>
+            <div class="row container">
+              {% capture cfp_data %}{% include cfp.md %}{% endcapture %}
+              {{ cfp_data | markdownify }}
+            </div>
+        </div>
+    </section>
+
+    <section id="event">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">O Evento</h2>
+                </div>
+            </div>
+            <div class="row container">
+              {{ content }}
+            </div>
+        </div>
+    </section>
+
+    <section id="datas">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Datas Importantes</h2>
+                </div>
+            </div>
+            <div class="row container">
+              {% capture dates_data %}{% include important_dates.md %}{% endcapture %}
+              {{ dates_data | markdownify }}
+            </div>
+        </div>
+    </section>
+
+    <footer>
+      &copy; 2020 Tchelinux
+    </footer>
+
+  </body>
+</html>

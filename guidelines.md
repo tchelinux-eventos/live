@@ -1,5 +1,5 @@
 ---
-layout: guideline
+layout: default
 title: Guia de Submissão de Palestras Tchelinux
 link_slides: /
 ---
@@ -53,7 +53,7 @@ Durante todo o processo, o grupo fará o possível para garantir a aplicação d
 
 Em todos eventos presenciais, estarão disponíveis ao apresentador um projetor e um computador, no entanto, não temos controle sobre o software ou o sistema operacional instalado nesse computador. Não há garantia de acesso à Internet ou a uma rede de computadores. Na maioria dos casos, disponibilizamos conectores VGA e/ou HDMI para a conexão de computadores/notebooks do próprio apresentador aos projetores.
 
-As apresentações são de responsabilidade do proponente do trabalho. Não existe a exigência de uso de um formato específico, ou de um _layout_ específico para _slides_. Disponibilizamos um [tema de slides do Tchelinux]({{ link_slides }}) para quem quiser utilizá-lo.
+As apresentações são de responsabilidade do proponente do trabalho. Não existe a exigência de uso de um formato específico, ou de um _layout_ específico para _slides_. Disponibilizamos um [tema de slides do Tchelinux]({{ page.link_slides }}) para quem quiser utilizá-lo.
 
 **As apresentações devem seguir o [Código de Conduta](CODE_OF_CONDUCT).**
 

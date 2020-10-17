@@ -1,5 +1,4 @@
 ---
-title: Código de Conduta Tchelinux
 ---
 
 Código de Conduta
@@ -15,9 +14,9 @@ Expositores, patrocinadores, fornecedores e parceiros em geral também estão su
 
 Por assédio entende-se sem limitação, comentários ofensivos, verbais ou eletrônicos, relacionados a características ou escolhas pessoais, origem racial, gênero, bem como comentários ou imagens sexuais, racistas, homofóbicas, transfóbicas ou discriminatórias de qualquer natureza em espaços públicos ou digitais, intimidação deliberada, bullying, perseguição, encalço, fotografias ou gravações que gerem embaraço, interrupções reiteradas de palestras, bate-papos, reuniões eletrônicas, reuniões físicas ou outros eventos, contato físico inadequado ou atenção sexual indesejada.
 
-Espera-se que os participantes cumpram imediatamente solicitações para descontinuar qualquer assédio ou comportamento de bullying. Sejam gentis com os outros. Não insultem ou ofendam outros participantes. Comportem-se profissionalmente. Lembrem-se de que piadas de assédio, sexismo, racismo ou exclusão não são apropriadas em momento algum, em especial para o Tchelinux. 
+Espera-se que os participantes cumpram imediatamente solicitações para descontinuar qualquer assédio ou comportamento de bullying. Sejam gentis com os outros. Não insultem ou ofendam outros participantes. Comportem-se profissionalmente. Lembrem-se de que piadas de assédio, sexismo, racismo ou exclusão não são apropriadas em momento algum, em especial para o Tchelinux.
 
-Qualquer participante que violar tais regras pode ser convidado a se retirar do evento, excluído dos canais de comunicação, a critério exclusivo dos organizadores, sem prejuízo das demais medidas legais cabíveis. 
+Qualquer participante que violar tais regras pode ser convidado a se retirar do evento, excluído dos canais de comunicação, a critério exclusivo dos organizadores, sem prejuízo das demais medidas legais cabíveis.
 
 Se um participante se engajar em comportamento de assédio, os representantes da comunidade podem tomar medidas que considerem adequadas, desde alertas ao infrator até a vedação de sua participação em demais eventos ou canais de comunicação, promovidos pelos membros da organização do Tchelinux individual ou coletivamente.
 
