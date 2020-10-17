@@ -1,0 +1,6 @@
+title: Tchelinux Eventos
+email: rafasgj@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Modelo de site para eventos do Tchelinux.
+baseurl: ""
+url: ""
