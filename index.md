@@ -39,6 +39,7 @@ As palestras continuam sendo sobre temas técnicos envolvendo software livre, no
 
 No dia **{{ page.date }}**, a partir das **{{ page.time }}h**, serão transmitidas, _ao vivo_, seções de discussão com os autores das palestras, onde eles responderão às perguntas sobre as palestras, e falarão mais sobre os tópicos abordados.
 
+Continuamos exigindo o cumprimento do [Código de Conduta](CODE_OF_CONDUCT).
 
 ## Datas Importantes
 

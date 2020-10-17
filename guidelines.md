@@ -44,7 +44,7 @@ Os trabalhos devem ser de autoria de quem o submeteu, e o uso de vídeos, som, i
 
 O desrespeito a qualquer um desses itens acarretará na rejeição da proposta de trabalho, e casos mais graves podem ser alvo de outras sanções.
 
-Durante todo o processo, o grupo fará o possível para garantir a aplicação do [Código de Conduta](CODE_OF_CONDUCT.md). Uma proposta que não se adeque a isso será rejeitada.
+Durante todo o processo, o grupo fará o possível para garantir a aplicação do [Código de Conduta](CODE_OF_CONDUCT). Uma proposta que não se adeque a isso será rejeitada.
 
 
 ## Eventos presenciais
@@ -55,7 +55,7 @@ Em todos eventos presenciais, estarão disponíveis ao apresentador um projetor 
 
 As apresentações são de responsabilidade do proponente do trabalho. Não existe a exigência de uso de um formato específico, ou de um _layout_ específico para _slides_. Disponibilizamos um [tema de slides do Tchelinux]({{ link_slides }}) para quem quiser utilizá-lo.
 
-**As apresentações devem seguir o [Código de Conduta](CODE_OF_CONDUCT.md).**
+**As apresentações devem seguir o [Código de Conduta](CODE_OF_CONDUCT).**
 
 Sugerimos o uso de arquivos no formato PDF para melhor possibilidade de acesso aos dados da apresentação.
 
@@ -73,7 +73,7 @@ Os eventos _online_ do Tchelinux são realizados em duas partes, a publicação 
 
 Os vídeos submetidos para os eventos do grupo devem seguir as seguintes regras:
 
-0. Os vídeos devem seguir o [Código de Conduta](CODE_OF_CONDUCT.md).
+0. Os vídeos devem seguir o [Código de Conduta](CODE_OF_CONDUCT).
 1. Não ultrapassar o tempo máximo estipulado para o evento ao qual o vídeo será associado.
 2. O vídeo deve ser de autoria da pessoa que está submetendo a proposta, e este deve garantir a propriedade ou autorizações necessárias de todo material contido no vídeo.
 3. Menores de idade só podem aparecer mediante autorização dos responsáveis legais, mesmo que seja responsável pelo vídeo.
