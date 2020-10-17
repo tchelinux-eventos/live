@@ -1,3 +1,7 @@
+---
+title: Código de Conduta Tchelinux
+---
+
 Código de Conduta
 =================
 
