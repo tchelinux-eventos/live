@@ -1,0 +1,24 @@
+.navbar-default {
+    border-color: transparent;
+    background-color: #111;
+}
+
+.bg-dark {
+    background-color: #111 !important;
+}
+
+.navbar-nav li a {
+  color: #ededed;
+  text-decoration: none;
+}
+
+.navbar-nav li a {
+  color: #ededed;
+  text-decoration: none;
+  margin-right: 1em;
+}
+
+.navbar-nav li a:hover {
+  color: #09f;
+  text-decoration: none;
+}

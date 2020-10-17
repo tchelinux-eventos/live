@@ -20,6 +20,7 @@ summary: |
   prazer de convidar a comunidade para participar do evento _online_,
   **{{ page.title }}**, que ocorrerá no dia **{{ page.date }}**.
 ---
+
 Pela primeira vez desde o início dos eventos do grupo, no ano de 2006, um evento será totalmente realizado _online_, e algumas mudanças em relação ao formato usado ao longo desses quase 15 anos são necessárias para acomodar as novas mídias utilizadas.
 
 As palestras continuam sendo sobre temas técnicos envolvendo software livre, no entanto não são mais _ao vivo_, elas serão disponibilizadas em vídeo, de no máximo _{{ page.presentation.length }} minutos_, no mínimo três dias antes do evento.

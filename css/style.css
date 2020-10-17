@@ -1,0 +1,184 @@
+---
+---
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+body {
+    position: absolute;
+    margin: 0;
+    padding-bottom: 90px;
+    min-height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #111;
+}
+
+@media screen and (max-width : 1200px){
+  body {
+      padding-bottom: 100px;
+  }
+}
+
+@media screen and (max-width : 768px){
+  body {
+      padding-bottom: 150px;
+  }
+}
+
+p {
+    line-height: 1.75;
+	font-size: 110%;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+	font-size: 25px !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.75em !important;
+}
+
+header {
+    height: 100vh;
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),
+      url('{{ site.baseurl }}/images/doppler.png');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+header .intro-text {
+    padding-top: 25vh;
+    padding-bottom: 50px;
+}
+
+header .intro-text .intro-lead-in {
+    margin-bottom: 25px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 22px;
+    font-style: italic;
+    line-height: 22px;
+}
+
+header .intro-text .intro-heading {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+header img {
+  max-width: 30%;
+  max-height: 300px;
+  margin-top: 3em;
+  margin-left: 70%;
+  display: block;
+}
+
+@media(max-height:420px) {
+  header img {
+    max-height: 100px;
+    margin-top: 0.5em;
+  }
+}
+
+@media(min-width:768px) {
+    header .intro-text {
+        padding-top: 300px;
+        padding-bottom: 200px;
+    }
+
+    header .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: {{ site.data.template.font.secondary }};
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+    }
+
+    header .intro-text .intro-heading {
+        margin-bottom: 50px;
+        text-transform: uppercase;
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+    }
+}
+
+section {
+    padding: 100px 0;
+}
+
+section h2.section-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+section h3.section-subheading {
+    margin-bottom: 75px;
+    text-transform: none;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 120%;
+    font-style: italic;
+    font-weight: 400;
+}
+
+@media(min-width:768px) {
+    section {
+        padding: 150px 0;
+    }
+}
+
+.service-heading {
+    margin: 15px 0;
+    text-transform: none;
+}
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    right: 0;
+    left: 0;
+}
