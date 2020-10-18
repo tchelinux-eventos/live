@@ -34,7 +34,7 @@ Os principais temas apresentados nos eventos do grupo, são:
 Muitos outros temas podem ser propostos, sempre sobre um viés técnico, e são comuns nos eventos, incluindo multimidia e produção criativa, inteligência artificial, visão computacional, e robótica. O grupo é aberto a novas oportunidades de aplicação de software livre.
 
 
-## Regras gerais de submissão de trabalhos
+### Regras gerais de submissão de trabalhos
 
 Os trabalhos devem ser submetidos a partir do formulário de submissão de trabalhos, que é exclusivo de cada evento organizado pelo grupo, até a data máxima especificada pelo evento. Trabalhos submetidos fora da data limite não serão apreciados pela equipe organizadora.
 
@@ -47,7 +47,7 @@ O desrespeito a qualquer um desses itens acarretará na rejeição da proposta d
 Durante todo o processo, o grupo fará o possível para garantir a aplicação do [Código de Conduta](CODE_OF_CONDUCT). Uma proposta que não se adeque a isso será rejeitada.
 
 
-## Eventos presenciais
+### Eventos presenciais
 
 > Estas regras se aplicam apenas a eventos presenciais.
 
@@ -65,7 +65,7 @@ Pode ser necessário que o autor que apresentar seu trabalho assine um termo de 
 
 Os _slides_ das palestras apresentadas devem ser disponibilizados para a organização, que os adicionará ao [repositório de palestras](https://slides.tchelinux.org).
 
-## Eventos Online
+### Eventos Online
 
 > Estas regras se aplicam apenas a eventos _online_.
 

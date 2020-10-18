@@ -1,8 +1,6 @@
 ---
+title: Código de Conduta
 ---
-
-Código de Conduta
-=================
 
 O Tchelinux é um grupo de usuários que organiza eventos sem fins lucrativos, mantém um site com informações sobre o grupo, um canal de discussão e uma grupo de discussão por emails que tem como principal objetivo promover a divulgação, o debate e a troca de experiências entre usuários e desenvolvedores de software open source com profissionais e estudantes de tecnologia de informação, e usuários de software em geral.
 
