@@ -13,12 +13,6 @@ presentation:
   length: 30
   submission: 30 de Novembro de 2020
   publication: 30 de Novembro de 2020
-
-summary: |
-  O ano de 2020 foi um ano de desafios, mudanças, e muita colaboração, e é
-  nesse espírito que o grupo de usuários de Software Livre Tchelinux tem o
-  prazer de convidar a comunidade para participar do evento _online_,
-  **{{ page.title }}**, que ocorrerá no dia **{{ page.date }}**.
 ---
 
 Pela primeira vez desde o início dos eventos do grupo, no ano de 2006, um evento será totalmente realizado _online_, e algumas mudanças em relação ao formato usado ao longo desses quase 15 anos são necessárias para acomodar as novas mídias utilizadas.

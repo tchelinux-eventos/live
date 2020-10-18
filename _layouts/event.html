@@ -24,7 +24,8 @@
                 </div>
             </div>
             <div class="row container">
-              {{ page.summary | liquify | markdownify }}
+              {% capture about_data %}{% include about.md %}{% endcapture %}
+              {{ about_data | markdownify }}
             </div>
         </div>
     </section>
