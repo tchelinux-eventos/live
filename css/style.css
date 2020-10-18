@@ -90,7 +90,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    font-family: sans-serif;
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
@@ -99,7 +99,7 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
+    font-family: sans-serif;
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
@@ -128,7 +128,7 @@ header img {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
+        font-family: sans-serif;
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
@@ -137,7 +137,7 @@ header img {
     header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
-        font-family: {{ site.data.template.font.primary }};
+        font-family: sans-serif;
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
@@ -157,7 +157,7 @@ section h2.section-heading {
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: {{ site.data.template.font.secondary }};
+    font-family: sans-serif;
     font-size: 120%;
     font-style: italic;
     font-weight: 400;
