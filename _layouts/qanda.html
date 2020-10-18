@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body id="page-top" class="index">
+
+    {% include navbar.html %}
+
+    <section>
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-12 text-center">
+                  <h2 class="section-heading">{{ page.title }}</h2>
+              </div>
+              <ul class="q_and_a-summary">
+                {% for i in (0..page.temas.size)  %}
+                  <a href="#qanda_{{ i }}">{{ page.temas[i].nome }}</a>
+                {% endfor %}
+              </ul>
+          </div>
+
+          <div class="row container">
+            {% for i in (0..page.temas.size)  %}
+              <section id="qanda_{{ i }}">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 text-center">
+                            <h3 class="section-heading q_and_a-group">{{ page.temas[i].nome }}</h3>
+                        </div>
+                    </div>
+                    {% for qa in page.temas[i].items %}
+                    <div class="row">
+                       <div class="q_and_a">
+                         <span class="q_and_a-question">{{ qa.pergunta | markdownify }}</span>
+                         <span class="q_and_a-answer">{{ qa.resposta | markdownify }}</span>
+                       </div>
+                    </div>
+                    {% endfor %}
+                </div>
+              </section>
+            {% endfor %}
+          </div>
+      </div>
+    </section>
+
+
+    <footer>
+      &copy; 2020 Tchelinux
+    </footer>
+
+    {% include js.html %}
+
+  </body>
+</html>

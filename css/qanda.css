@@ -1,0 +1,29 @@
+---
+---
+
+.q_and_a {
+}
+
+.q_and_a-summary {
+  margin-left: 5em;
+}
+
+.q_and_a-summary a {
+  display: block;
+  font-size: 125%;
+  font-variant: petite-caps;
+}
+
+.q_and_a-group {
+
+}
+
+span.q_and_a-question p {
+  font-weight: bolder;
+}
+
+span.q_and_a-answer p {
+  line-height: 1.1;
+  margin-left: 3em;
+  font-weight: lighter;
+}
