@@ -74,7 +74,7 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),
-      url('{{ site.baseurl }}/images/doppler.png');
+      url('../images/doppler.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
