@@ -2,7 +2,7 @@
 layout: event
 title: Tchelinux Live
 city: Live
-date: 12 de Novembro de 2020
+date: 12 de Dezembro de 2020
 time: '14:00'
 cfp:
   start: 18 de Outubro de 2020
